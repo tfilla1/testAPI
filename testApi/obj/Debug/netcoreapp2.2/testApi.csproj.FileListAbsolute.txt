@@ -1,0 +1,14 @@
+C:\Users\tfilla\source\repos\testApi\testApi\bin\Debug\netcoreapp2.2\testApi.deps.json
+C:\Users\tfilla\source\repos\testApi\testApi\bin\Debug\netcoreapp2.2\testApi.runtimeconfig.json
+C:\Users\tfilla\source\repos\testApi\testApi\bin\Debug\netcoreapp2.2\testApi.runtimeconfig.dev.json
+C:\Users\tfilla\source\repos\testApi\testApi\bin\Debug\netcoreapp2.2\testApi.dll
+C:\Users\tfilla\source\repos\testApi\testApi\bin\Debug\netcoreapp2.2\testApi.pdb
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.csproj.CoreCompileInputs.cache
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.RazorAssemblyInfo.cache
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.RazorAssemblyInfo.cs
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.AssemblyInfoInputs.cache
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.AssemblyInfo.cs
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.RazorTargetAssemblyInfo.cache
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.dll
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.pdb
+C:\Users\tfilla\source\repos\testApi\testApi\obj\Debug\netcoreapp2.2\testApi.csprojAssemblyReference.cache
